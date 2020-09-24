@@ -5,7 +5,7 @@ import (
 	"log"
 	"net"
 	pb "github.com/youngjun9072/tuto/protobuf"
-	"github.com/youngjun9072/tuto/handler"
+	"github.com/youngjun9072/tuto/server/handler"
 	"google.golang.org/grpc"
 )
 
